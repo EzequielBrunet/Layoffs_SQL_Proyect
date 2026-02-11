@@ -28,6 +28,8 @@ Se aplicaron los siguientes pasos:
 5. Tratamiento de valores nulos y espacios en blanco
 6. Eliminación de registros sin información útil para el análisis
 
+![Captura Limpieza](Capturas/Limpieza_datos.png)
+
 ## Análisis Exploratorio de Datos (EDA)
 Se analizaron diferentes dimensiones del dataset:
 
