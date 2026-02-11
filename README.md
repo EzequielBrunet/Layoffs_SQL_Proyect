@@ -1,5 +1,5 @@
 # Layoffs_SQL_Proyect
-SQL data cleaning and exploratory analysis of global layoffs (2020–2023)
+SQL Limpieza y exploracion de datos || Despidos globlaes (2020 - 2023)
 
 ## Descripción del Proyecto
 Este proyecto analiza la **crisis de despidos masivos** a nivel global (2020-2023) utilizando **SQL**. 
