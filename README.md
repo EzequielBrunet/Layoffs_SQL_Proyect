@@ -41,7 +41,7 @@ Se analizaron diferentes dimensiones del dataset:
 - Despidos según etapa de la empresa (stage)
 - Relación entre fondos recaudados y despidos
 
-![Captura Exploracion](capturas/rolling_total.png)
+![Captura Exploracion](Capturas/Rolling_total.png)
 
 ## Preguntas de análisis
 
