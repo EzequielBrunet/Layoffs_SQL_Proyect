@@ -41,6 +41,8 @@ Se analizaron diferentes dimensiones del dataset:
 - Despidos según etapa de la empresa (stage)
 - Relación entre fondos recaudados y despidos
 
+![Captura EDA](Capturas/Rolling_total (Acumulado de despido mensuales).png)
+
 ## Preguntas de análisis
 
 El proyecto busca responder:
