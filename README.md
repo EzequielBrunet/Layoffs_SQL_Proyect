@@ -44,7 +44,6 @@ Se analizaron diferentes dimensiones del dataset:
 ![Captura Exploracion](Capturas/Rolling_total.png)
 
 ## Preguntas de análisis
-
 El proyecto busca responder:
 
 - ¿Qué industrias fueron más afectadas por los despidos?
@@ -53,7 +52,6 @@ El proyecto busca responder:
 - ¿Qué etapas de empresa fueron más vulnerables?
 
 ## Insights principales
-
 Del análisis del dataset se observa que:
 
 - El mayor volumen de despidos se concentró entre 2022 y 2023.
@@ -69,7 +67,7 @@ Como **Licenciado en Administración**, mi enfoque no es solo técnico. La metod
 
 El objetivo final es transformar información dispersa en **reportes claros para la toma de decisiones gerenciales.**
 
-## 👨‍💻 Autor
+## Autor
 **Ezequiel Brunet**
 Licenciado en Administración | Data Analytics
 
