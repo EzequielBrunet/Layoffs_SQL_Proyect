@@ -1,5 +1,5 @@
-# Layoffs_SQL_Proyect
-SQL Limpieza y exploracion de datos || Despidos globlaes (2020 - 2023)
+# Layoffs SQL Project
+SQL — Limpieza y exploración de datos | Despidos globales (2020–2023)
 
 ## Descripción del Proyecto
 Este proyecto analiza la **crisis de despidos masivos** a nivel global (2020-2023) utilizando **SQL**. 
@@ -7,9 +7,8 @@ El objetivo principal fue simular un entorno de trabajo real: tomar un dataset "
 
 ## Herramientas Utilizadas
 * **MySQL 8** (Motor de base de datos)
-* **Window Functions** (Análisis de tendencias y rankings)
 * **CTEs (Common Table Expressions)** (Para limpieza compleja)
-* **Data Cleaning & Standardization**}
+* **Data Cleaning & Standardization**
 
 ## Dataset
 El dataset contiene información histórica sobre despidos en empresas de distintos países e industrias.
@@ -71,4 +70,4 @@ El objetivo final es transformar información dispersa en **reportes claros para
 **Ezequiel Brunet**
 Licenciado en Administración | Data Analytics
 
-[LinkedIn](www.linkedin.com/in/ezequielbrunet)
+[LinkedIn](https://www.linkedin.com/in/ezequielbrunet)
