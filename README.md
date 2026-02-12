@@ -8,6 +8,7 @@ El objetivo principal fue simular un entorno de trabajo real: tomar un dataset "
 ## Herramientas Utilizadas
 * **MySQL 8** (Motor de base de datos)
 * **CTEs (Common Table Expressions)** (Para limpieza compleja)
+* **Window Functions** (Análisis de tendencias y rankings)
 * **Data Cleaning & Standardization**
 
 ## Dataset
